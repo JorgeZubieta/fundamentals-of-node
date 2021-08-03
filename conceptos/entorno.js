@@ -11,7 +11,7 @@ let nombre = process.env.NOMBRE || "sin nombre";
 console.log('HOLA : ' + nombre);
 
 let web = process.env.WEB || "sin sitio web";
-console.log('HOLA : ' + web);
+console.log('Mi sitio web : ' + web);
 
 let cel = process.env.CEL || "sin numero de celular";
 console.log('Numero de Cel : ' + cel);
