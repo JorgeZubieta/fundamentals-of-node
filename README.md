@@ -5,5 +5,8 @@
 ##Fundamentals of Node
 1 - Monohilo - implicaciones en diseño y seguridad
 2 - Variables de entorno - process.envc
-3 - instalacionNodemon y PM2npm intall -g nodemon
+3 - InstalacionNodemon y PM2npm intall -g nodemon
 4 - Callback (setTimeOut) variable compartida entre callbacks
+5 - CalbackHell
+6 - Promesas (.then & .catch)
+7 - Async / Await
