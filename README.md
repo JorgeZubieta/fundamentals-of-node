@@ -12,3 +12,5 @@
 7 - Async / Await
 8 - Modulos Globales
 9 - File System "FS"
+10 - Console
+11 - Try / Catch
