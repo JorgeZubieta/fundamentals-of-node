@@ -14,3 +14,7 @@
 9 - File System "FS"
 10 - Console
 11 - Try / Catch
+12 - Procesos hijos "Child process"
+13 - Node-gyp (compliar modulos nativos de node)
+14 - Módulos nativos en C++
+15 - Modulo HTTP
