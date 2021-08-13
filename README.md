@@ -18,3 +18,7 @@
 13 - Node-gyp (compliar modulos nativos de node)
 14 - Módulos nativos en C++
 15 - Modulo HTTP
+16 - OS "Operation System"
+17 - Process (sincrono y asincrono)
+18 - NPM (paquetes / modulos)
+19 - Require e Import
