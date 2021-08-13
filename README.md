@@ -21,4 +21,4 @@
 16 - OS "Operation System"
 17 - Process (sincrono y asincrono)
 18 - NPM (paquetes / modulos)
-19 - Require e Import
+19 - Creacion de nuestros modulos (Require e Import)
