@@ -28,4 +28,6 @@
 - 23 - Benchmarking (console time y timeEnd)
 - 24 - Debugger
 - 25 - Error First Callbacks
-- 26 - Scapring : Puppeter
+- 26 - Scraping : Puppeter, instalacion de Chromium
+- 27 - Automatizacion de procesos con Gulp
+- 28 - Aplicaciones de escritorio : electron
